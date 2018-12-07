@@ -1,0 +1,2 @@
+[requires]
+Stacy/0.3@user/stable
